@@ -1,0 +1,15 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 1rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: 100px auto;
+}
